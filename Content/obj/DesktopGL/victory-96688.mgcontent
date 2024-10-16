@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>/home/danshack/Desktop/Monogame/OpenEveningProject/Content/victory-96688.mp3</SourceFile>
+  <SourceTime>2024-10-13T21:10:20.6471303+01:00</SourceTime>
+  <DestFile>/home/danshack/Desktop/Monogame/OpenEveningProject/Content/bin/DesktopGL/victory-96688.xnb</DestFile>
+  <DestTime>2024-10-13T21:12:07.7938043+01:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2024-08-16T18:05:56+01:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2024-08-16T18:05:56+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>/home/danshack/Desktop/Monogame/OpenEveningProject/Content/bin/DesktopGL/victory-96688.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>

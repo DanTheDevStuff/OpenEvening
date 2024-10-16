@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Svtcd6aZUO7HJH4rb8xXW89PvWvHcemojcvodauhjBQ/3HbTPvPoTz/nQg/O12b26J0jVjFWYGAHp9A76F1jfA==",
+  "success": true,
+  "projectFilePath": "/home/danshack/Desktop/Monogame/OpenEveningProject/OpenEveningProject.csproj",
+  "expectedPackageFiles": [
+    "/home/danshack/.nuget/packages/monogame.content.builder.task/3.8.2.1105/monogame.content.builder.task.3.8.2.1105.nupkg.sha512",
+    "/home/danshack/.nuget/packages/monogame.framework.desktopgl/3.8.2.1105/monogame.framework.desktopgl.3.8.2.1105.nupkg.sha512",
+    "/home/danshack/.nuget/packages/monogame.library.sdl/2.26.5.5/monogame.library.sdl.2.26.5.5.nupkg.sha512",
+    "/home/danshack/.nuget/packages/nvorbis/0.10.4/nvorbis.0.10.4.nupkg.sha512",
+    "/home/danshack/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/home/danshack/.nuget/packages/system.valuetuple/4.5.0/system.valuetuple.4.5.0.nupkg.sha512",
+    "/home/danshack/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

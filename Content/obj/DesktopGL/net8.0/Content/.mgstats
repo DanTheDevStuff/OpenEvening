@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/home/danshack/Desktop/Monogame/OpenEveningProject/Content/medium-explosion-40472.mp3","/home/danshack/Desktop/Monogame/OpenEveningProject/Content/bin/DesktopGL/Content/medium-explosion-40472.xnb","SongProcessor","SongContent",43200,140,0.3603227
+"/home/danshack/Desktop/Monogame/OpenEveningProject/Content/menu.spritefont","/home/danshack/Desktop/Monogame/OpenEveningProject/Content/bin/DesktopGL/Content/menu.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21538,0.578966
+"/home/danshack/Desktop/Monogame/OpenEveningProject/Content/title.spritefont","/home/danshack/Desktop/Monogame/OpenEveningProject/Content/bin/DesktopGL/Content/title.xnb","FontDescriptionProcessor","SpriteFontContent",2005,21538,0.5546664
+"/home/danshack/Desktop/Monogame/OpenEveningProject/Content/victory-96688.mp3","/home/danshack/Desktop/Monogame/OpenEveningProject/Content/bin/DesktopGL/Content/victory-96688.xnb","SongProcessor","SongContent",151200,131,0.4730456
